@@ -1,0 +1,84 @@
+// Translation mapping for Juliana Helena Landing Page (PT-BR)
+// Hero
+"Realce sua Beleza Natural"
+"Cuidado exclusivo feito com amor e propósito para realçar seu olhar e renovar sua pele."
+"RESERVAR AGORA"
+"VER SERVIÇOS"
+"Deslize para descobrir"
+
+// Navbar
+"INÍCIO"
+"SOBRE NÓS"
+"SERVIÇOS"
+"GALERIA"
+"CONTATO"
+"RESERVAR"
+
+// About
+"Bem-vinda"
+"Onde a técnica encontra o amor"
+"Juliana Helena Espaço da Beleza é um refúgio dedicado ao bem-estar feminino. Cada técnica, do Nanoblading aos protocolos faciais, é realizada com dedicação e o propósito de celebrar sua beleza única."
+"Protocolos progresivos para resultados duradouros." -> "Protocolos progressivos para resultados duradouros."
+"Ambiente acogedor y atención personalizada." -> "Ambiente acolhedor e atendimento personalizado."
+"Especialistas en cejas, pestañas y cuidado facial." -> "Especialistas em sobrancelhas, cílios e cuidados faciais."
+"Dedicación Femenina" -> "Dedicação Feminina"
+"Técnicas de Belleza" -> "Técnicas de Beleza"
+
+// Services
+"Personalizado"
+"Nossas Especialidades"
+"Me interesa" -> "Tenho interesse"
+"A consultar"
+
+// Service Details
+"Nanoblading (Nanobland)": "La evolución del hilo a hilo. Técnica suave con nanoaguja para un resultado ultra natural que dura de 6 a 12 meses." -> "A evolução do fio a fio. Técnica suave com nanoagulha para um resultado ultra natural que dura de 6 a 12 meses."
+"Brow Lamination": "Cejas alineadas y perfectas. Técnica que disfraza fallas y realza la mirada, con una duración de hasta 8 semanas." -> "Sobrancelhas alinhadas e perfeitas. Técnica que disfarça falhas e realça o olhar, com duração de até 8 semanas."
+"Extensão de Cílios": "Mirada marcante y elegante. Diferentes técnicas como Volumen Brasileño y Fox Eyes para resaltar tu belleza única." -> "Olhar marcante e elegante. Diferentes técnicas como Volume Brasileiro e Fox Eyes para ressaltar sua beleza única."
+"Limpeza de Pele Profunda": "Piel renovada y saludable. Remoción de impurezas, exfoliación e hidratación profunda con protocolos personalizados." -> "Pele renovada e saudável. Remoção de impurezas, esfoliação e hidratação profunda com protocolos personalizados."
+"Hydragloss Labial": "Hidratación profunda, realce del color natural y brillo espejado sin agujas. Labios suaves y ultra saludables." -> "Hidratação profunda, realce da cor natural e brilho espelhado sem agulhas. Lábios macios e ultra saudáveis."
+"Massagem Relaxante": "Un momento solo tuyo. Alivia tensiones, reduce el estrés y renueva tus energías con nuestra masaje exclusiva para mujeres." -> "Um momento só seu. Alivia tensões, reduz o estresse e renova suas energias com nossa massagem exclusiva para mulheres."
+
+// Video Gallery
+"Inspiração"
+"Resultados Reais"
+
+// Gallery
+"Siga nosso espaço"
+
+// Booking
+"Agende sua visita"
+"Permita-nos cuidar de você. Preencha o formulário e coordenaremos seu horário personalizado em nosso espaço."
+"Horários"
+"Agendamiento previo vía WhatsApp o formulario." -> "Agendamento prévio via WhatsApp ou formulário."
+"*Tolerancia máxima de 10 min por atraso." -> "*Tolerância máxima de 10 min por atraso."
+"Ubicación" -> "Localização"
+"Atención personalizada en espacio privado." -> "Atendimento personalizado em espaço privado."
+"Nombre Completo" -> "Nome Completo"
+"Ej. Maria Silva" -> "Ex. Maria Silva"
+"Teléfono (WhatsApp)" -> "Telefone (WhatsApp)"
+"Servicio Deseado" -> "Serviço Desejado"
+"Selecciona un servicio" -> "Selecione um serviço"
+"Solicitar Agendamiento" -> "Solicitar Agendamento"
+"¡Solicitud enviada! Juliana se pondrá en contacto contigo pronto." -> "Solicitação enviada! Juliana entrará em contato com você em breve."
+
+// Footer
+"JULIANA HELENA"
+"Beleza natural con identidad. Especialistas en realzar tu mirada y cuidar tu piel con técnicas avanzadas en Curitiba." -> "Beleza natural com identidade. Especialistas em realçar seu olhar e cuidar da sua pele com técnicas avançadas em Curitiba."
+"Explorar"
+"Especialidades"
+"Design & Microblading"
+"Extensiones de Cílios" -> "Extensões de Cílios"
+"Limpieza de Pele" -> "Limpeza de Pele"
+"Contacto" -> "Contato"
+"WhatsApp Directo" -> "WhatsApp Direto"
+"Elevando sua autoestima."
+
+// Isabela Voice Agent
+"Hablar con Isabela" -> "Falar com Isabela"
+"Hola, soy Isabela" -> "Olá, sou Isabela"
+"Cuentame, ¿en qué puedo ayudarte hoy?" -> "Conte-me, como posso te ajudar hoje?"
+"Tu asistente virtual de Juliana Helena. ¿Deseas agendar una cita o tienes alguna duda?" -> "Sua assistente virtual da Juliana Helena. Deseja agendar um horário ou tem alguma dúvida?"
+"Terminar Llamada" -> "Encerrar Chamada"
+"Iniciar Llamada de Voz" -> "Iniciar Chamada de Voz"
+"En línea" -> "Em linha"
+"Quizás más tarde" -> "Talvez mais tarde"
