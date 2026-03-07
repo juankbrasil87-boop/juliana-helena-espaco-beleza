@@ -606,7 +606,7 @@ const IsabelaVoiceAgent = () => {
 
     setCallStatus('loading');
     try {
-      const response = await fetch('http://localhost:3001/api/create-web-call', {
+      const response = await fetch('/api/create-web-call', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ agent_id: AGENT_ID }),
