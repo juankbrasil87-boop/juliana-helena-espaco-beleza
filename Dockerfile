@@ -26,4 +26,5 @@ COPY backend/ ./
 EXPOSE 3001
 
 # Run the server using tsx
+RUN chmod +x node_modules/.bin/tsx
 CMD ["npx", "tsx", "src/server.ts"]
