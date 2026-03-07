@@ -1,6 +1,7 @@
 import express from 'express';
 import dotenv from 'dotenv';
 import cors from 'cors';
+import compression from 'compression';
 import { Retell } from 'retell-sdk';
 import path from 'path';
 import { fileURLToPath } from 'url';
@@ -11,6 +12,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const app = express();
+app.use(compression()); // Enable Gzip compression
 app.use(cors());
 app.use(express.json());
 
@@ -36,8 +38,16 @@ app.post('/api/create-web-call', async (req, res) => {
     }
 });
 
-// Serve frontend dist files
-app.use(express.static(path.join(__dirname, '../../frontend/dist')));
+// Serve frontend dist files with caching
+app.use(express.static(path.join(__dirname, '../../frontend/dist'), {
+    maxAge: '1d',
+    setHeaders: (res, path) => {
+        if (path.endsWith('.html')) {
+            res.setHeader('Cache-Control', 'no-cache');
+        }
+    }
+}));
+
 app.get('*', (req, res) => {
     res.sendFile(path.join(__dirname, '../../frontend/dist/index.html'));
 });
