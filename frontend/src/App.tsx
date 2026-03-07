@@ -173,7 +173,7 @@ const Hero = () => {
     <section id="inicio" className="relative h-screen flex items-center overflow-hidden">
       <div className="absolute inset-0 z-0">
         <img
-          src="/assets/images/hero.png"
+          src="/assets/images/hero.jpg"
           alt="Juliana Helena Hero"
           loading="eager"
           decoding="async"
